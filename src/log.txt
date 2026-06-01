@@ -1,0 +1,15 @@
+nohup: ignoring input
+2026-05-22 19:16:59.195 | INFO     | alphafold3_pytorch.tensor_typing:<module>:125 - Type checking is disabled.
+2026-05-22 19:16:59.195 | INFO     | alphafold3_pytorch.tensor_typing:<module>:130 - Debugging is disabled.
+[19:16:59] UFFTYPER: Warning: hybridization set to SP3 for atom 0
+[19:16:59] UFFTYPER: Unrecognized charge state for atom: 0
+[19:16:59] UFFTYPER: Unrecognized atom type: Mn2+2 (0)
+[19:16:59] UFFTYPER: Unrecognized atom type: Fe2+2 (0)
+[19:16:59] UFFTYPER: Unrecognized atom type: Co3+3 (0)
+[19:16:59] UFFTYPER: Unrecognized atom type: Ni3+2 (0)
+[19:16:59] UFFTYPER: Unrecognized charge state for atom: 0
+[19:16:59] UFFTYPER: Unrecognized atom type: Zn+2 (0)
+[19:16:59] UFFTYPER: Unrecognized atom type: Ca+2 (0)
+sampling time step:   0%|          | 0/16 [00:00<?, ?it/s]sampling time step:   6%|▋         | 1/16 [00:00<00:06,  2.33it/s]sampling time step:  12%|█▎        | 2/16 [00:00<00:03,  3.63it/s]sampling time step:  19%|█▉        | 3/16 [00:00<00:02,  4.49it/s]sampling time step:  25%|██▌       | 4/16 [00:00<00:02,  5.04it/s]sampling time step:  31%|███▏      | 5/16 [00:01<00:02,  5.43it/s]sampling time step:  38%|███▊      | 6/16 [00:01<00:01,  5.67it/s]sampling time step:  44%|████▍     | 7/16 [00:01<00:01,  5.82it/s]sampling time step:  50%|█████     | 8/16 [00:01<00:01,  5.89it/s]sampling time step:  56%|█████▋    | 9/16 [00:01<00:01,  5.98it/s]sampling time step:  62%|██████▎   | 10/16 [00:01<00:00,  6.03it/s]sampling time step:  69%|██████▉   | 11/16 [00:02<00:00,  6.11it/s]sampling time step:  75%|███████▌  | 12/16 [00:02<00:00,  6.15it/s]sampling time step:  81%|████████▏ | 13/16 [00:02<00:00,  6.15it/s]sampling time step:  88%|████████▊ | 14/16 [00:02<00:00,  6.20it/s]sampling time step:  94%|█████████▍| 15/16 [00:02<00:00,  6.24it/s]sampling time step: 100%|██████████| 16/16 [00:02<00:00,  5.78it/s]
+최종 출력 텐서 형태: torch.Size([2, 32, 3])
+성공적으로 alphafold_dummy_output.pdb 파일이 저장되었습니다!
